@@ -13,7 +13,6 @@ vendor/
 .DS_Store
 *.syso
 coverage.txt
-.vscode/
 *.tar.bz2
 parts/
 prime/
@@ -56,3 +55,5 @@ xl-meta
 node_modules/
 pnpm-lock.yaml
 package-lock.yaml
+.claude/
+config.bat
